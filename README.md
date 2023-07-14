@@ -1,4 +1,6 @@
 # ML_task2
+Inicialemnte se extraen características del conjunto de datos, como el nº de palabras por tweet, nº de signos de puntuación, etc.
+Features_task2
 Preprocesado del conjunto de datos. Aplicación de algorimos de Machine Learning.
 Preprocesado : 
 Eliminar usuarios identificados por @
@@ -18,4 +20,4 @@ Los resultados no son buenos y se valoran otras opciones para intentar mejorar l
 
 Para mejorar los resultados se opta :
 Aplicar  configurar los hiperparámetros.
-Añadir muestras nuevas mediant oversampling.
+Añadir muestras nuevas mediant oversampling(SMOTE).
