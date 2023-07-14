@@ -23,3 +23,7 @@ Los resultados no son buenos y se valoran otras opciones para intentar mejorar l
 Para mejorar los resultados se opta :
 Aplicar  configurar los hiperparámetros.
 Añadir muestras nuevas mediant oversampling(SMOTE).
+
+
+Se ha probado cambiar la técnica de extracción de carcaterísticas pero los resultados obtenidos son peores.
+ML_Task2_features_ex.jpynb
