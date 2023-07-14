@@ -15,3 +15,7 @@ Se convierten a numéricas las categorias de la clase objetivo.
 Se vectoriza, TD_IF para extraer características.
 Se aplican los algorimtos SVC, XGBoost; Random Forest y NB_Mutinomial.
 Los resultados no son buenos y se valoran otras opciones para intentar mejorar los modelos.
+
+Para mejorar los resultados se opta :
+Aplicar  configurar los hiperparámetros.
+Añadir muestras nuevas mediant oversampling.
