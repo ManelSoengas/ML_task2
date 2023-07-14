@@ -1,5 +1,7 @@
 # ML_task2
-Inicialemnte se extraen características del conjunto de datos, como el nº de palabras por tweet, nº de signos de puntuación, etc.
+El conjunto de datos utilizado es EXIST_21.
+Se puede obtener en : http://nlp.uned.es/exist2021/ 
+Inicialmente se extraen características del conjunto de datos, como el nº de palabras por tweet, nº de signos de puntuación, etc.
 Features_task2
 Preprocesado del conjunto de datos. Aplicación de algorimos de Machine Learning.
 Preprocesado : 
